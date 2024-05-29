@@ -8,7 +8,7 @@ Please carefully follow the steps below to create a minimal application using Re
 
   * Currently using LTS Version `20.14.0` at time of writing.
  
-### Step 1 - Installing Vite and Creating a React application.
+## Step 1 - Installing Vite and Creating a React application.
 
 Install `create-vite` globally using `npm` which is the Vite version of `create-react-app`.
 
@@ -52,7 +52,7 @@ We can also start installing other `npm` packages we want here. For this example
 npm install axios react-router-dom
 ```
 
-### Step 2 - Updating our React application.
+## Step 2 - Updating our React application.
 
 Within our new React application, we create a new React component called `Home.jsx`.
 
