@@ -52,7 +52,7 @@ We can also start installing other `npm` packages we want here. For this example
 npm install axios react-router-dom
 ```
 
-## Step 2. Updating our React application.
+### Step 2 - Updating our React application.
 
 Within our new React application, we create a new React component called `Home.jsx`.
 
